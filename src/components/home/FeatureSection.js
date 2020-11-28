@@ -24,7 +24,7 @@ const features = [
     headline: "Petition Signature Widget",
     subtitle: "You can add a Proca petition to your site.",
     text:
-      "There's no need to store another password, or learn whole new website tool. All your campaign content is managed in your existing website.",
+      "There's no need to learn a new CMS or design a new layout. All your campaign content is managed in your existing website.",
     icon: <WidgetsIcon style={{ fontSize: iconSize }} />,
     mdDelay: "0",
     smDelay: "0"

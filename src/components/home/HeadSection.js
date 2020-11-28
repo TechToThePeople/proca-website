@@ -66,7 +66,7 @@ const styles = theme => ({
   wrapper: {
     position: "relative",
 /*    backgroundColor: theme.palette.secondary.main,*/
-    background: 'linear-gradient(45deg, #FE6B8B 30%, #FF8E53 90%)',
+    background: 'linear-gradient(45deg,#ff5c39 0%,#485cc7 100%)',
     paddingBottom: theme.spacing(2)
   },
   logo: {

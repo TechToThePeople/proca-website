@@ -91,7 +91,7 @@ function DemoSection(props) {
                   {'<script id="proca"'}
                   <br />
                   {
-                    ' src="https//widget.proca.foundation/d"'
+                    ' src="https//widget.proca.foundation/d/demo/petition"'
                   }
                   <br />
                   {'"> </script>'}
@@ -106,11 +106,10 @@ function DemoSection(props) {
 
 const addForm = params => {
   var s = document.createElement("script")
-  s.src = "https://widget.proca.foundation/d/proca.foundation"
+  s.src = "https://widget.proca.foundation/d/demo/petition"
   //s.src="http://localhost:5000/d/proca.foundation/index.js";
   s.type = "text/javascript"
   s.dataset.mode = "form"
-  s.dataset.page = "2"
   s.id = "proca"
   document.getElementsByTagName("head")[0].appendChild(s)
 }
