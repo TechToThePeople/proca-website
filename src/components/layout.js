@@ -12,12 +12,13 @@ import theme from "./../theme";
 import GlobalStyles from "./../GlobalStyles";
 //import NavBar from "./NavBar";
 import Header from "./header";
-
+import Logo from "../images/fixthestatusquo-logo.svg";
 
 import "./layout.css"
 import { withStyles, MuiThemeProvider, CssBaseline } from "@material-ui/core";
 
 const styles = theme => ({
+  logo : {viewBox:"0 0 24 24", height:"24px"},
   wrapper: {
     backgroundColor: theme.palette.common.white
   }
@@ -47,7 +48,7 @@ const Layout = (props) =>{
       {children}
     <Header siteTitle={data.site.siteMetadata.title} />
 
-      <footer>Proudly created by FIX THE STATUS QUO, estonia</footer>
+      <footer>Proudly created by <Logo className={classes.logo}/>, estonia</footer>
     </MuiThemeProvider>
     </div>
   );
