@@ -36,10 +36,12 @@ And we know that someone that is good at putting in place processes and build
 structures isn’t necessarily the one that is the best for long term day to day 
 follow them, but we don’t have -yet- the capacity to get two people working on
 that.
-Employment type: Preferably business-to-business; we are incorporated in 
+
+**Employment type**: Preferably business-to-business; we are incorporated in 
 Estonia so an employment contract might not make sense or be easy to 
 arrange.
-Hours: we envision this position will need around 5-10 hours a week. We’d like 
+
+**Hours**: we envision this position will need around 5-10 hours a week. We’d like 
 to settle based on hours worked.
 
 ## Skills
