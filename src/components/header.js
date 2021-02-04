@@ -38,7 +38,7 @@ const Header = ({siteTitle,classes}) =>{
     <CssBaseline />
     <AppBar position="fixed" color="inherit">
       <Toolbar>
-        <IconButton edge="start" color="inherit" aria-label="home page" href="/#top" className={classes.menuButton} >
+        <IconButton edge="start" color="inherit" aria-label="home page" href="/" >
           <SvgIcon ><Logo />
           </SvgIcon >
         </IconButton>
