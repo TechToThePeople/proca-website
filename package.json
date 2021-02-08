@@ -18,7 +18,7 @@
     "gatsby-plugin-mdx": "^1.7.1",
     "gatsby-plugin-no-javascript": "^2.0.5",
     "gatsby-plugin-react-helmet": "^3.10.0",
-    "gatsby-plugin-sharp": "^2.13.1",
+    "gatsby-plugin-sharp": "^2.14.1",
     "gatsby-source-filesystem": "^2.11.0",
     "gatsby-transformer-remark": "^2.7.5",
     "gatsby-transformer-sharp": "^2.10.1",
