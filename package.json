@@ -12,7 +12,7 @@
     "aos": "^2.3.4",
     "classnames": "^2.3.1",
     "gatsby": "^3.10.2",
-    "gatsby-image": "^3.9.0",
+    "gatsby-image": "^3.11.0",
     "gatsby-mdx": "^1.0.0",
     "gatsby-plugin-manifest": "^3.10.0",
     "gatsby-plugin-mdx": "^2.9.0",
